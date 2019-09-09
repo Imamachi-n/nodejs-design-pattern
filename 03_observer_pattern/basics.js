@@ -1,4 +1,6 @@
-const EventEmitter = require('events').EventEmitter;
+const {
+  EventEmitter
+} = require('events');
 const fs = require('fs');
 
 function findPattern(files, regex) {

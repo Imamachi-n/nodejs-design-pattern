@@ -1,0 +1,15 @@
+{
+  "name": "02_module_pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "mocha-sinon": "^2.1.0",
+    "sinon": "^7.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "04_async_pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "mkdirp": "^0.5.1",
+    "mocha": "^6.2.0",
+    "request": "^2.88.0",
+    "slug": "^1.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
